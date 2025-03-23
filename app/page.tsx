@@ -7,7 +7,7 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center justify-center text-center">
         <div>
           <Image
-            className="dark:invert rounded-full h-[200px] w-[200px]"
+            className="rounded-full h-[200px] w-[200px]"
             src="/omair.jpg"
             alt="Omair Mohammed"
             width={200}
