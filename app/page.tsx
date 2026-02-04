@@ -26,7 +26,7 @@ export default function Home() {
           <a href="https://www.linkedin.com/in/omairm0">
             <Linkedin />
           </a>
-          <a href="https://t.me/Xz_Ye">
+          <a href="https://t.me/Omairmoh">
             <Send />
           </a>
           <a href="https://github.com/OmairM0/">
